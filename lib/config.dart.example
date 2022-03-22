@@ -1,0 +1,2 @@
+const ggApiKey = "<GGKeyHere>";
+const ggElevationEndPoint = "https://maps.googleapis.com/maps/api/elevation/json";
